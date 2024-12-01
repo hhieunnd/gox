@@ -14,11 +14,35 @@ false;
 Interger: 1234;
 Decimal number: 12.34;
 
-*String
+* String
 "hello world";
 "123";
 
-*Nil
+* Nil
 
 Expressions:
-Arithmetic
+* Arithmetic
+* Compare and equality
+* Logical operators
+* Precedence and grouping
+
+Statement
+Variables
+Control Flow
+* if
+* while
+* for
+
+Functions
+* Closures
+OOP (class)
+
+class Breakfast {
+    cook() {
+        print "Eat rice";
+    }
+
+    serve(who) {
+        print "Enjoy your breakfast, " + who;
+    }
+}
